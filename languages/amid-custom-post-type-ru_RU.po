@@ -1,0 +1,347 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Amid Custom Post Type\n"
+"POT-Creation-Date: 2022-04-05 10:42+0300\n"
+"PO-Revision-Date: 2022-04-05 10:43+0300\n"
+"Last-Translator: \n"
+"Language-Team: nesteruk.dimka@gmail.com\n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: ;__;_e;_x:1,2c;_ex1,2c;_n:1,2;_nx:1,2,4c;esc_attr__;"
+"esc_attr_e;esc_html__;esc_html_e;esc_html;_n_noop:1,2;_nx_noop:1,2,3c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: assets\n"
+
+#: includes/class-news.php:28
+msgctxt "amid-custom-post-type"
+msgid "Topics"
+msgstr "Темы"
+
+#: includes/class-news.php:29
+msgctxt "amid-custom-post-type"
+msgid "Topic"
+msgstr "Тема"
+
+#: includes/class-news.php:30
+msgid "Search topic"
+msgstr "Поиск темы"
+
+#: includes/class-news.php:31
+msgid "All topics"
+msgstr "Все темы"
+
+#: includes/class-news.php:32
+msgid "Parent topic"
+msgstr "Родительская тема"
+
+#: includes/class-news.php:33
+msgid "Parent topic:"
+msgstr "Родительская тема:"
+
+#: includes/class-news.php:34
+msgid "Edit topic"
+msgstr "Редактировать тему"
+
+#: includes/class-news.php:35
+msgid "Update topic"
+msgstr "Обновить тему"
+
+#: includes/class-news.php:36
+msgid "Add new topic"
+msgstr "Добавить новую тему"
+
+#: includes/class-news.php:37
+msgid "New topic"
+msgstr "Новая тема"
+
+#: includes/class-news.php:38
+msgid "Topics"
+msgstr "Темы"
+
+#: includes/class-news.php:52 includes/class-news.php:53
+msgctxt "amid-custom-post-type"
+msgid "News"
+msgstr "Новости"
+
+#: includes/class-news.php:54
+msgid "Add news"
+msgstr "Добавить новости"
+
+#: includes/class-news.php:55
+msgid "Add new news"
+msgstr "Добавить новую новость"
+
+#: includes/class-news.php:56
+msgid "Edit news"
+msgstr "Редактировать новости"
+
+#: includes/class-news.php:57
+msgid "New news"
+msgstr "Новые новости"
+
+#: includes/class-news.php:58
+msgid "View news"
+msgstr "Посмотреть новости"
+
+#: includes/class-news.php:59
+msgid "Find news"
+msgstr "Найти новости"
+
+#: includes/class-news.php:60
+msgid "No news found"
+msgstr "Новостей не найдено"
+
+#: includes/class-news.php:61
+msgid "There are no news in the cart"
+msgstr ""
+
+#: includes/class-news.php:62
+msgid "Parent news"
+msgstr "Родительские новости"
+
+#: includes/class-news.php:63
+msgid "All news"
+msgstr "Все новости"
+
+#: includes/class-news.php:64
+msgid "News archives"
+msgstr "Новости"
+
+#: includes/class-news.php:65 includes/class-news.php:66
+msgid "News"
+msgstr "Новости"
+
+#: includes/class-news.php:67
+msgid "Viewing news"
+msgstr "Просмотр новостей"
+
+#: includes/class-news.php:68
+msgid "News Properties"
+msgstr ""
+
+#: includes/class-news.php:70
+msgid "Insert in news"
+msgstr "Вставить в новость"
+
+#: includes/class-news.php:71
+msgid "Loaded for this news"
+msgstr ""
+
+#: includes/class-news.php:72
+msgid "Image news"
+msgstr "Изображение новостей"
+
+#: includes/class-news.php:73
+msgid "Set news image"
+msgstr "Установить новостное изображение"
+
+#: includes/class-news.php:74
+msgid "Delete news image"
+msgstr "Удалить новостное изображение"
+
+#: includes/class-news.php:75
+msgid "Use as news image"
+msgstr "Использовать как новостное изображение"
+
+#: includes/class-news.php:77
+msgid "The news has been updated"
+msgstr "Новость обновлена"
+
+#: includes/class-news.php:78
+msgid "News added"
+msgstr "Новости добавлены"
+
+#: includes/class-news.php:79
+msgid "News added privately"
+msgstr "Новость добавлена в приват"
+
+#: includes/class-news.php:80
+msgid "Newsletter saved as draft"
+msgstr ""
+
+#: includes/class-news.php:81
+msgid "Publication of the news is scheduled"
+msgstr "Публикация новости запланирована"
+
+#: includes/filter-result.php:24
+msgid "Permission denied"
+msgstr "Доступ запрещен"
+
+#: includes/filter-result.php:32
+msgid "Something is wrong, please try again later ..."
+msgstr "Что-то не так, попробуйте позже..."
+
+#: includes/filter-result.php:119
+msgid "Post subject not assigned"
+msgstr "Тема сообщения не назначена"
+
+#: includes/filter-result.php:129
+msgid "Topics selected: "
+msgstr "Выбранные темы: "
+
+#: includes/filter-result.php:135
+msgid ". Found news: "
+msgstr ". Найдено новостей: "
+
+#: includes/filter-result.php:148
+msgid "No posts found"
+msgstr "Новостей не найдено"
+
+#: includes/filter-result.php:192
+msgid " All news "
+msgstr " Все новости "
+
+#, php-format
+#~ msgid "For Amid WooCommerce Taxonomy Product to work, you need to %s"
+#~ msgstr "Для работы Amid WooCommerce Taxonomy Product нужно %s"
+
+#~ msgid "install and activate the WooCommerce plugin"
+#~ msgstr "установить и активировать плагин WooCommerce"
+
+#~ msgid "Collection:"
+#~ msgid_plural "Collections:"
+#~ msgstr[0] "Коллекция:"
+#~ msgstr[1] "Коллекции:"
+#~ msgstr[2] "Коллекции:"
+
+#~ msgid "New badge"
+#~ msgstr "Новинка"
+
+#~ msgid "A product satisfying a new or previously known need"
+#~ msgstr "Товар удовлетворяющий новую или известную ранее потребность"
+
+#~ msgid "Top sales"
+#~ msgstr "Топ продаж"
+
+#~ msgid "The product is in great demand and has collected many orders"
+#~ msgstr "Товар пользующийся большим спросом и собравший много заказов"
+
+#~ msgid "Recommend badge"
+#~ msgstr "Рекомендуем"
+
+#~ msgid ""
+#~ "The product attracts the attention of the buyer due to the recommendation"
+#~ msgstr "Товар привлекает внимание покупателя благодаря рекомендации"
+
+#~ msgid "Stock badge"
+#~ msgstr "Акция"
+
+#~ msgid "Video"
+#~ msgstr "Видео"
+
+#~ msgid "Review Link"
+#~ msgstr "Ссылка на обзор"
+
+#~ msgid "Video URL"
+#~ msgstr "Ссылка на видео"
+
+#~ msgid ""
+#~ "Enter the URL for the video you want to show in place of the featured "
+#~ "image in the product detail page. (the services enabled are: YouTube )."
+#~ msgstr ""
+#~ "Введите URL видео, которое вы хотите показать вместе с изображениями на "
+#~ "странице товара. (включен видеохостинг: YouTube)"
+
+#~ msgid "Display type"
+#~ msgstr "Тип отображения"
+
+#~ msgid "Default"
+#~ msgstr "По умолчанию"
+
+#~ msgid "Products"
+#~ msgstr "Товары"
+
+#~ msgid "Subcollections"
+#~ msgstr "Подколлекции"
+
+#~ msgid "Both"
+#~ msgstr "Оба"
+
+#~ msgid "Thumbnail"
+#~ msgstr "Миниатюра"
+
+#~ msgid "Upload/Add image"
+#~ msgstr "Загрузить/Добавить изображение"
+
+#~ msgid "Remove image"
+#~ msgstr "Удалить изображение"
+
+#~ msgid ""
+#~ "Product collections for your store can be managed here. To change the "
+#~ "order of collections on the front-end you can drag and drop to sort them. "
+#~ "To see more collections listed click the \"screen options\" link at the "
+#~ "top-right of this page."
+#~ msgstr ""
+#~ "Здесь вы можете управлять коллекциями товаров магазина. Для изменения "
+#~ "порядка коллекций во фронтэнде просто перетаскивайте их. Чтобы увидеть "
+#~ "остальные коллекции, нажмите на \"Настройки экрана\" вверху страницы."
+
+#~ msgctxt "Default collection slug"
+#~ msgid "Withoutcollection"
+#~ msgstr "Withoutcollection"
+
+#~ msgid "Note:"
+#~ msgstr "Примечание:"
+
+#, php-format
+#~ msgid ""
+#~ "Deleting a collection does not delete the products in that collection. "
+#~ "Instead, products that were only assigned to the deleted collection are "
+#~ "set to the collection %s."
+#~ msgstr ""
+#~ "Удаление коллекции не удаляет товары в этой коллекции. Вместо этого "
+#~ "товары, которые были только в одной удаляемой коллекции, переносятся в "
+#~ "коллекцию %s."
+
+#~ msgid ""
+#~ "Attribute terms can be assigned to products and variations.<br/><br/"
+#~ "><b>Note</b>: Deleting a term will remove it from all products and "
+#~ "variations to which it has been assigned. Recreating a term will not "
+#~ "automatically assign it back to products."
+#~ msgstr ""
+#~ "Термины атрибутов могут быть назначены продуктам и вариантам. <br/><br/"
+#~ "><b>Примечание</ b>: Удаление термина удалит его из всех продуктов и "
+#~ "вариантов, которым он был назначен. Воссоздание термина не будет "
+#~ "автоматически назначать его обратно продуктам."
+
+#, php-format
+#~ msgid "Make &#8220;%s&#8221; the default collection"
+#~ msgstr "Назначить &#8220;%s&#8221; коллекцию по умолчанию"
+
+#~ msgid "Make default"
+#~ msgstr "Использовать по умолчанию"
+
+#~ msgid ""
+#~ "This is the default collection and it cannot be deleted. It will be "
+#~ "automatically assigned to products with no collection."
+#~ msgstr ""
+#~ "Это коллекция по умолчанию, и ее нельзя удалить. Она будет автоматически "
+#~ "назначена продуктам без коллекции."
+
+#~ msgid "Collections"
+#~ msgstr "Коллекции"
+
+#~ msgid "Product collections"
+#~ msgstr "Коллекции товаров"
+
+#~ msgid "Collection"
+#~ msgstr "Коллекция"
+
+#~ msgid "All collections"
+#~ msgstr "Все коллекции"
+
+#~ msgid "Edit collection"
+#~ msgstr "Изменить коллекцию"
+
+#~ msgid "New collection name"
+#~ msgstr "Название новой коллекции"
+
+#~ msgid "Featured Video URL"
+#~ msgstr "Ссылка на обзор"

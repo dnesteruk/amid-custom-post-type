@@ -1,0 +1,6 @@
+# ignore Editor files
+.idea
+
+# ignore OS generated files
+ehthumbs.db
+Thumbs.db
